@@ -50,8 +50,8 @@ Dashboard
 
 The Power BI report contains two pages:
 
-- Sales Performance Overview — KPI cards, sales trends, top-performing states, restaurants, categories, and dishes.
-- Detailed Sales Analysis — detailed sales and rating data for further analysis.
+- Page 1: Sales Performance Overview
+- Page 2: Detailed Sales Analysis
 
 Skills Demonstrated
 
